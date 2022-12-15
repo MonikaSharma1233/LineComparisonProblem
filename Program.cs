@@ -12,7 +12,7 @@ public class Program
         // CheckEquality_UC2.Compare_Length();
         CompareLines_UC3.CompareLinesLength();
 
-        CheckEquality_UC2.Compare_Length();
+        
 
 
         Console.ReadKey(true);//use for show screen for a some time.
